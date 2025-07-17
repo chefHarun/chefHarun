@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=chefHarun&color=ff69b4)
+![Profile View](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)  
 
 <h2 align="center">Hi, I'm Harun 👋</h2>
 <p align="center">
