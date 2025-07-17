@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi, I'm Harun 👋</h2>
 <p align="center">
-  Frontend-focused developer from Türkiye. Passionate about building clean, fast, and user-first web experiences.  
+  Fullstack-focused developer from Türkiye. Passionate about building clean, fast, and user-first web experiences.  
   Exploring backend with Next.js and contributing to open-source projects like LumiUI.
 </p>
 ---
