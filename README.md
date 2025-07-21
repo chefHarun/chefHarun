@@ -1,17 +1,16 @@
 ![Profile View](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)  
 
-<h2 align="center">Hi, I'm Harun 👋</h2>
-**Fullstack Developer · UI/UX Designer · IT Student**
+## Hi, I'm Harun 👋  
 
-  Fullstack developer from Türkiye. Passionate about building clean, fast, and user-first web experiences.  
-  Crafting UI/UX designs and contributing to open-source projects.
+Fullstack developer from Türkiye building fast, clean, and user-focused web apps.  
+Lover of elegant UI/UX and open-source collaboration.
 
-* Building modern web applications with React, Next.js, and TypeScript
-* Designing intuitive user interfaces and seamless user experiences  
-* Contributing to open-source projects and community-driven development
-* Focused on performance optimization and clean code practices
+- React, Next.js, TypeScript  
+- UI/UX design with simplicity and usability in mind  
+- Contributing to open-source & community projects  
+- Focused on performance and clean code
 
-**Current Focus:** Exploring advanced backend architectures and design systems
+**Current Focus:** Advanced backend architectures & design systems
 
 **Links:** [Portfolio](https://chefharun.ninja) · [LinkedIn](https://linkedin.com/in/chefharun) · [Email](mailto:spadeycontent@gmail.com)
 
