@@ -2,7 +2,7 @@
 
 ## Hi, I'm Harun 👋  
 
-Fullstack developer from Turkiye building fast, clean, and user-focused web apps.  
+Fullstack developer from Mars building fast, clean, and user-focused web apps.  
 Lover of elegant UI/UX and open-source collaboration.
 
 - React, Next.js, TypeScript  
